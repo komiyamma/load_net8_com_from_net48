@@ -1,0 +1,11 @@
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\bin\Debug\net8.0\ClassLibrary12.deps.json
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\bin\Debug\net8.0\ClassLibrary12.dll
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\bin\Debug\net8.0\ClassLibrary12.pdb
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ClassLibrary12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ClassLibrary12.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ClassLibrary12.AssemblyInfo.cs
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ClassLibrary12.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ClassLibrary12.dll
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\refint\ClassLibrary12.dll
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ClassLibrary12.pdb
+C:\Users\master\source\repos\ClassLibrary12\ClassLibrary12\obj\Debug\net8.0\ref\ClassLibrary12.dll

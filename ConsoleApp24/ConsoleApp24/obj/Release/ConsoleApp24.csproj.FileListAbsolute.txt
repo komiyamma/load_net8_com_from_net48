@@ -1,0 +1,7 @@
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\bin\Release\ConsoleApp24.exe.config
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\bin\Release\ConsoleApp24.exe
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\bin\Release\ConsoleApp24.pdb
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\obj\Release\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\obj\Release\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\obj\Release\ConsoleApp24.exe
+C:\Users\master\source\repos\ConsoleApp24\ConsoleApp24\obj\Release\ConsoleApp24.pdb

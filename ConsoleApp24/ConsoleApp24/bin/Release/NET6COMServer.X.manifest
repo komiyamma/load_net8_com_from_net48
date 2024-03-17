@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1"><assemblyIdentity type="win32" name="NET6COMServer.X" version="1.0.0.0" /><file name="NET6COMServer.comhost.dll"><comClass clsid="{2956c8a3-6a98-421b-9484-af2c16b01261}" threadingModel="Both" progid="NET6COMServer.NET6COMServer" /></file></assembly>

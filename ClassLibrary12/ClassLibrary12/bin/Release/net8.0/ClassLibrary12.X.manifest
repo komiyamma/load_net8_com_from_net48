@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1"><assemblyIdentity type="win32" name="ClassLibrary12.X" version="1.0.0.0" /><file name="ClassLibrary12.comhost.dll"><comClass clsid="{3880f33d-0fe2-4c18-bd54-2ca063c0984b}" threadingModel="Both" progid="ClassLibrary12.NET8COMServer" /></file></assembly>

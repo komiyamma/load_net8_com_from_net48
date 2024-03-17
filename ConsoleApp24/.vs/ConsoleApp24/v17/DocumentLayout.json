@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\master\\source\\repos\\ConsoleApp24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36152DE-CA03-4F63-BDDA-F79D624E0B64}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\master\\source\\repos\\consoleapp24\\consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36152DE-CA03-4F63-BDDA-F79D624E0B64}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\master\\source\\repos\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
+              "ToolTip": "C:\\Users\\master\\source\\repos\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "RelativeToolTip": "ConsoleApp24\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:54:06.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
